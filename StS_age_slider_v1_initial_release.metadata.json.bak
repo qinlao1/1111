@@ -1,0 +1,20 @@
+{
+  "file_name": "StS_age_slider_v1_initial_release",
+  "model_name": "StS_age_slider_v1_initial_release",
+  "file_path": "F:/文生图工具/ComfyUI-aki-v1.6/ComfyUI/models/loras/StS_age_slider_v1_initial_release.safetensors",
+  "size": 43610038,
+  "modified": 1745149010.4358215,
+  "sha256": "48c281135adf33965ac88b81effc84b7b534612eac64e92ca11322fbf8e5e96a",
+  "base_model": "SDXL 1.0",
+  "preview_url": "F:/文生图工具/ComfyUI-aki-v1.6/ComfyUI/models/loras/StS_age_slider_v1_initial_release.webp",
+  "preview_nsfw_level": 0,
+  "notes": "",
+  "from_civitai": true,
+  "civitai": null,
+  "tags": [],
+  "modelDescription": "",
+  "civitai_deleted": false,
+  "favorite": false,
+  "exclude": false,
+  "usage_tips": "{}"
+}

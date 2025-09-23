@@ -1,0 +1,20 @@
+{
+  "file_name": "multiple fellatio_illustrious_V1.0",
+  "model_name": "multiple fellatio_illustrious_V1.0",
+  "file_path": "F:/文生图工具/ComfyUI-aki-v1.6/ComfyUI/models/loras/multiple fellatio_illustrious_V1.0.safetensors",
+  "size": 127720272,
+  "modified": 1745149511.5165312,
+  "sha256": "1df2b0552915495e456fd3b066145d4d8d337d5d47fd56ed556c956aa3f47b56",
+  "base_model": "SDXL 1.0",
+  "preview_url": "F:/文生图工具/ComfyUI-aki-v1.6/ComfyUI/models/loras/multiple fellatio_illustrious_V1.0.webp",
+  "preview_nsfw_level": 0,
+  "notes": "",
+  "from_civitai": true,
+  "civitai": null,
+  "tags": [],
+  "modelDescription": "",
+  "civitai_deleted": false,
+  "favorite": false,
+  "exclude": false,
+  "usage_tips": "{}"
+}
